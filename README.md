@@ -1,11 +1,5 @@
-
-<!--
-*** Desafio Js Express
--->
-
-
 <!-- Sobre el proyecto -->
-## En esta ocasion, se crea una aplicacion en la cual puedes agregar, editar y eliminar canciones a traves de peticiones realizadas al servidor.
+## Desafio Js Express
 
 
 ### Construida con
