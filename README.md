@@ -1,8 +1,6 @@
 
 <!--
-*** Proyecto Para la ADL
-*** En esta ocasion, creamos una pagina web, la cual es capaz de realizar peticiones
-*** Las peticiones son realizada a un servido el cual aca crearemos
+*** Desafio Js Express
 -->
 
 
