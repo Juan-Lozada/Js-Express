@@ -10,9 +10,9 @@
 ## En esta ocasion, se crea una aplicacion en la cual puedes agregar, editar y eliminar canciones a traves de peticiones realizadas al servidor.
 
 
-### Contruida con
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+### Construida con
+* React
+* Bootstrap
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
