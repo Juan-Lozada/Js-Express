@@ -17,7 +17,7 @@ Instalar la carpeta "Node modules":
 
 ### instalacion
 
-This is an example of how to list things you need to use the software and how to install them.
+Abrir la consola con "ctrl + " ` ", luego ingresar el comando:
 * npm
   ```sh
   npm install
